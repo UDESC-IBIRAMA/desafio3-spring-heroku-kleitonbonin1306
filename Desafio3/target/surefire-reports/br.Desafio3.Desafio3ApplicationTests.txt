@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: br.Desafio3.Desafio3ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.592 s <<< FAILURE! - in br.Desafio3.Desafio3ApplicationTests
+initializationError(br.Desafio3.Desafio3ApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+

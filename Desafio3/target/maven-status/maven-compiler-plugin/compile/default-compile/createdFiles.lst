@@ -1,0 +1,9 @@
+service\VeiculoFacadeREST.class
+service\ApplicationConfig.class
+model\Veiculo.class
+model\Montadora.class
+model\Modelo.class
+br\Desafio3kleitonBonin\Desafio3Application.class
+service\ModeloFacadeREST.class
+service\AbstractFacade.class
+service\MontadoraFacadeREST.class
